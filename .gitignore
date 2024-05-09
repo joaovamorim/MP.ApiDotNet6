@@ -1,0 +1,19 @@
+# MP.ApiDotNet6.Api
+MP.ApiDotNet6.Api/bin/
+MP.ApiDotNet6.Api/obj/
+
+# MP.ApiDotNet6.Apllication
+MP.ApiDotNet6.Apllication/bin/
+MP.ApiDotNet6.Apllication/obj/
+
+# MP.ApiDotNet6.Domain
+MP.ApiDotNet6.Domain/bin/
+MP.ApiDotNet6.Domain/obj/
+
+# MP.ApiDotNet6.Infra.Data
+MP.ApiDotNet6.Infra.Data/bin/
+MP.ApiDotNet6.Infra.Data/obj/
+
+# MP.ApiDotNet6.Infra.IoC
+MP.ApiDotNet6.Infra.IoC/bin/
+MP.ApiDotNet6.Infra.IoC/obj/

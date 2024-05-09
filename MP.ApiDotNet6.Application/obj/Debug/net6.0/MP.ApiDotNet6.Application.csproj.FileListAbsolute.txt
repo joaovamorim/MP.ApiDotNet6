@@ -1,0 +1,15 @@
+D:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\bin\Debug\net6.0\MP.ApiDotNet6.Application.deps.json
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\bin\Debug\net6.0\MP.ApiDotNet6.Application.dll
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\bin\Debug\net6.0\MP.ApiDotNet6.Application.pdb
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\bin\Debug\net6.0\MP.ApiDotNet6.Domain.dll
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\bin\Debug\net6.0\MP.ApiDotNet6.Domain.pdb
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDotNet6.Application.csproj.AssemblyReference.cache
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDotNet6.Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDotNet6.Application.AssemblyInfoInputs.cache
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDotNet6.Application.AssemblyInfo.cs
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDotNet6.Application.csproj.CoreCompileInputs.cache
+D:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDo.CA839A4E.Up2Date
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDotNet6.Application.dll
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\refint\MP.ApiDotNet6.Application.dll
+d:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\MP.ApiDotNet6.Application.pdb
+D:\GitHub\MP.ApiDotNet6\MP.ApiDotNet6.Application\obj\Debug\net6.0\ref\MP.ApiDotNet6.Application.dll
