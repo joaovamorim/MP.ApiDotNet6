@@ -3,8 +3,8 @@ MP.ApiDotNet6.Api/bin/
 MP.ApiDotNet6.Api/obj/
 
 # MP.ApiDotNet6.Apllication
-MP.ApiDotNet6.Apllication/bin/
-MP.ApiDotNet6.Apllication/obj/
+MP.ApiDotNet6.Application/bin/
+MP.ApiDotNet6.Application/obj/
 
 # MP.ApiDotNet6.Domain
 MP.ApiDotNet6.Domain/bin/

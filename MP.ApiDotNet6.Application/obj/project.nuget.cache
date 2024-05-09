@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WAEP034saJoEeVYoVSdTyu2ozKQ/p9619HKyOa+YlkYsHdF3NTny39LCbsgCkVDb9a7eOWcOwigsZXcXYMt/uA==",
+  "dgSpecHash": "VZGpq4tyfqYgp2u9UHV5fdRcBy031CHPsz7Lffgq4LvvTx7t4PYjPuuDdIAl+B4iZ6xnEtdMShbwSAjPwJ7KNw==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+  "projectFilePath": "D:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

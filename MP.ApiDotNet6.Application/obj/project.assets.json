@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+      "projectUniqueName": "D:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
       "projectName": "MP.ApiDotNet6.Application",
-      "projectPath": "d:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+      "projectPath": "D:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
       "packagesPath": "C:\\Users\\joao_\\.nuget\\packages\\",
-      "outputPath": "d:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\obj\\",
+      "outputPath": "D:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joao_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "d:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
-              "projectPath": "d:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
+            "D:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+              "projectPath": "D:\\GitHub\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
             }
           }
         }
